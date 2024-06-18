@@ -1,18 +1,20 @@
-## Getting Started
+# Projeto de candidatura de emprego
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🎯 Finalidade
 
-## Folder Structure
+Programa simples que usa controles de fluxo como condicionais e repetições para simular uma candidatura de emprego
 
-The workspace contains two folders by default, where:
+## Nota
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- A classe ProcessoSeletivo possui diferentes métodos que simulam partes específicas do processo seletivo para a vaga.
+- O intuito do projeto é aprendizado e, portanto, o programa não está completamente funcional, fazendo com que a única saída seja um resultado aleatório em que o candidato aceito no processo pode atender ou não, permitindo a sua aceitação no emprego.
+- Os métodos não usados podem ser usados para que haja a seleção dos candidatos selecionados.
+    - O máximo salarial aceito é 2000.00, fazendo com que os que pedirem além à isso sejam rejeitados;
+    - O cálculo do salário deve ser considerado pelo salário base estático, 2000.00;
+    - A análise dos candidatos possibilita uma avaliação de contra-proposta salarial, ligar para o candidato o avisando que foi aceito ou simplesmente esperando as respostas dos restantes;
+    - Um dos métodos também permite a impressão de candidatos selecionados para a vaga de emprego.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Packages utilizados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- java.util.Random;
+- java.util.concurrent.ThreadLocalRandom.
