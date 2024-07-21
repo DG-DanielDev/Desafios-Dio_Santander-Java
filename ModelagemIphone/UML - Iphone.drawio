@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2024-07-21T17:58:18.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="CzCsztHx_0oe5SQVEBKX" version="24.7.1" type="google">
+  <diagram name="Página-1" id="UzAEvrTG-2KHp2JU_JgI">
+    <mxGraphModel dx="3196" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ov1s--n0dfI_xnEN57C-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="8ov1s--n0dfI_xnEN57C-47" target="8ov1s--n0dfI_xnEN57C-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="7.5" y="440" as="targetPoint" />
+            <mxPoint x="-257.5500000000002" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="8ov1s--n0dfI_xnEN57C-47" target="8ov1s--n0dfI_xnEN57C-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="179.66666666666674" as="targetPoint" />
+            <mxPoint x="-657.5500000000002" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="8ov1s--n0dfI_xnEN57C-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ReprodutorMusical&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;# tocar () : boolean&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;# pausar() : boolean&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h3&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;# SelecionarMusica(String musica) : void&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;labelBackgroundColor=none;strokeColor=#050505;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="390" width="364.89" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="8ov1s--n0dfI_xnEN57C-47" target="8ov1s--n0dfI_xnEN57C-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-457.49999999999955" y="280" as="sourcePoint" />
+            <mxPoint x="107" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-39" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AparelhoTelefonico&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;+ ligar(String Numero) : void&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;# atender() : boolean&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;+ iniciarCorreioVoz : void&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;labelBackgroundColor=none;strokeColor=#050505;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="390" width="364.89" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-45" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;NavegadorInternet&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;+ exibirPagina(String url) : void&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;h3 style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;&amp;nbsp;# adicionarNovaAba() : void&lt;/font&gt;&lt;/h3&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;- atualizarPagina() : void&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;labelBackgroundColor=none;strokeColor=#050505;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="390" width="364.89" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="8ov1s--n0dfI_xnEN57C-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;iPhone&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;strokeColor=#050505;fillColor=#F2F2F2;" vertex="1" parent="1">
+          <mxGeometry x="-662.55" y="70" width="410" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
